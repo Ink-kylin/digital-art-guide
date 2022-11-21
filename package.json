@@ -1,0 +1,14 @@
+{
+  "name": "digital-art-guide",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^2.0.0-beta.53",
+    "vuepress-theme-hope": "^2.0.0-beta.122"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  }
+}
